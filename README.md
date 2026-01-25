@@ -1,5 +1,11 @@
 # CodeSnap – An AI-based Learning Platform for Code Debugging
 
+## 🛠️ Technologies Used (Learning Level)
+- React (basic usage)
+- Node.js & Express (API integration)
+- MongoDB (data storage)
+- AI API integration (learning phase)
+
 ## 📌 Overview
 
 CodeSnap is an AI-powered learning platform designed to help programming beginners and students understand **compiler and runtime errors** more effectively. Instead of only fixing errors, CodeSnap focuses on **learning-by-explanation**, enabling users to grasp *why* an error occurs and *how* to resolve it correctly.
