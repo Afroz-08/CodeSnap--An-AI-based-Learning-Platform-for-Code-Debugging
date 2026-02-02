@@ -43,6 +43,9 @@ Existing tools emphasize quick fixes but fail to promote conceptual clarity. Cod
 * React.js
 * Tailwind CSS
 * TypeScript
+* JavaScript (via React & TypeScript)
+* HTML (JSX-based UI structure)
+
 
 ### Backend
 
@@ -165,3 +168,7 @@ VBIT (Autonomous), Hyderabad
 ## 📄 License
 
 This project is developed for **academic and learning purposes**.
+## 🔒 Note
+
+This is an academic project. API keys and database credentials are intentionally excluded from the repository for security reasons.
+
