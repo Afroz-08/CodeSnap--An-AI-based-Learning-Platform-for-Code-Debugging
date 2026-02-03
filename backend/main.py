@@ -30,7 +30,7 @@ app = FastAPI(title="CodeSnap API", version="0.1.0", lifespan=lifespan)
 # Allow all origins for local development to avoid intermittent 400 preflight errors.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://6981cb846041780ff69956ff--codesnap-ai.netlify.app/editor"],
+    allow_origins=["https://6981cb846041780ff69956ff--codesnap-ai.netlify.app/"],
     allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
