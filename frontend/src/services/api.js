@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // 🔥 This automatically switches between local & deployed backend
-const API = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
+const API = import.meta.env.VITE_API_URL ;
 
 export const explainCode = async (payload) => {
   const res = await axios.post(`${API}/api/explain`, payload, {
